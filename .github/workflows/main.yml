@@ -1,6 +1,7 @@
 
 name: manual run
-
+permissions: 
+  contents: write
 on:
   workflow_dispatch:
 
